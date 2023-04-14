@@ -1,4 +1,5 @@
 ![Thai Dat banner](./imgs/banner.png)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rancho&size=30&pause=1000&color=F77AAF&center=true&vCenter=true&width=435&lines=Freedom+Seeker%2C;Learning+Enthusiast%2C;And+more%2C...)](https://git.io/typing-svg)
 
 ![Visitor Count](https://profile-counter.glitch.me/ThaiDat/count.svg)
 
