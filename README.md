@@ -1,3 +1,5 @@
 ### Hi there 👋
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+![Visitor Count](https://profile-counter.glitch.me/ThaiDat/count.svg)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThaiDat)](https://github.com/anuraghazra/github-readme-stats)
