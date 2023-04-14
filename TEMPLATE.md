@@ -6,6 +6,7 @@
 ![Visitor Count](https://profile-counter.glitch.me/ThaiDat/count.svg)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ThaiDat&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&custom_title=Activities"></img>
+
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=ThaiDat&theme=tokyonight&column=3&no-frame=true"></img>
 
 {{ LANGUAGE_TEMPLATE_START }}
