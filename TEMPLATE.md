@@ -1,5 +1,5 @@
 ![Thai Dat banner](./imgs/banner.png)
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Rancho&size=30&pause=1000&color=FF5757&center=true&vCenter=true&width=435&lines=Freedom+Seeker%2C;Learning+Enthusiast%2C;And+more%2C..." alt="Typing SVG" /></p>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Rancho&size=30&pause=1000&color=B98DEC&center=true&vCenter=true&width=435&lines=Freedom+Seeker%2C;Learning+Enthusiast%2C;And+more%2C..." alt="Typing SVG" /></p>
 
 ![Visitor Count](https://profile-counter.glitch.me/ThaiDat/count.svg)
 
