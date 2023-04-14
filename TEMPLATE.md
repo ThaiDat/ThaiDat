@@ -1,4 +1,4 @@
-### Hi there 👋
+![Thai Dat banner](./imgs/banner.png)
 
 ![Visitor Count](https://profile-counter.glitch.me/ThaiDat/count.svg)
 
