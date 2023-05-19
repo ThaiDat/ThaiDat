@@ -1,7 +1,7 @@
 ![Thai Dat banner](./imgs/banner.png)
 <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Rancho&size=30&pause=1000&color=B98DEC&center=true&vCenter=true&width=435&lines=Freedom+Seeker%2C;Learning+Enthusiast%2C;And+more%2C..." alt="Typing SVG" /></p>
 
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=ThaiDat&theme=tokyonight&column=3&no-frame=true"></img>
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=ThaiDat&theme=tokyonight&column=4&no-frame=true"></img>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ThaiDat&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&custom_title=Activities"></img>
 
 ![Jupyter Notebook](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23DA5B0B&message=Jupyter%20Notebook%EF%B8%B167.5%25)
