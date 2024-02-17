@@ -10,8 +10,11 @@
   <a href="https://www.facebook.com/dshdcttddthhpnnvtvdkasb/"><img height="32" width="32" src="https://cdn.simpleicons.org/facebook/black/white"/></a>
 </div>
 
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=ThaiDat&theme=tokyonight&column=4&no-frame=true"></img>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ThaiDat&show_icons=true&theme=tokyonight&include_all_commits=true&custom_title=Activities"></img>
+<div align="center">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=ThaiDat&theme=tokyonight&column=8&no-frame=true"></img>
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ThaiDat&show_icons=true&theme=tokyonight&include_all_commits=true&custom_title=Activities"></img>
+</div>
 
 {{ LANGUAGE_TEMPLATE_START }}
 ![{{LANGUAGE_NAME}}](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_NAME:uri}}%EF%B8%B1{{LANGUAGE_PERCENT:uri}}%25)
