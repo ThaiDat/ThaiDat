@@ -11,8 +11,6 @@
 </div>
 
 <div align="center">
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=ThaiDat&theme=tokyonight&column=8&no-frame=true"></img>
-  
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ThaiDat&show_icons=true&theme=tokyonight&include_all_commits=true&custom_title=Activities"></img>
 </div>
 
